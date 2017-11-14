@@ -24,7 +24,7 @@ function destructivelyDeleteFromObjectByKey(object, key){
 
 
 const person = {
-  name: "Awesome Name",
+  name: "Sarah",
   occupation: {
     title: "Senior Manager of Awesome",
     yearsHeld: 2
