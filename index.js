@@ -38,4 +38,4 @@ const person = {
   }]
 }
 
-console.log(person.pets[0].kind);
+const collections = [1, [2, [4, [5, [6]], 3]]]
