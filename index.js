@@ -38,4 +38,4 @@ const person = {
   }]
 }
 
-console.log(person.occupation.yearsHeld);
+console.log(person.name);
