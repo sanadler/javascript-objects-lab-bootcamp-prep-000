@@ -38,4 +38,4 @@ const person = {
   }]
 }
 
-console.log(peron.pets.kind);
+console.log(person.pets.kind);
