@@ -68,4 +68,4 @@ function find(array, criteriaFn) {
   return null
 }
 
-find(collections,criteriaFn);
+find(collections, criteriaFn);
