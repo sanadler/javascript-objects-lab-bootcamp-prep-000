@@ -38,4 +38,4 @@ const person = {
   }]
 }
 
-console.log(person.occupation[title]);
+console.log(person.occupation.title);
