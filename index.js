@@ -37,3 +37,5 @@ const person = {
     name: "Ralph"
   }]
 }
+
+console.log(person.occupation);
